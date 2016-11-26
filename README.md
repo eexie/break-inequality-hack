@@ -5,6 +5,6 @@
 * Served with [Flask](http://flask.pocoo.org/)
 
 ## Setup
-1. Activate virtualenv with `source bin/activate`
-2. Install requirements with `bin/pip install -r requirements.txt`
+1. Ensure pip is installed: `sudo easy_install pip`
+2. Install requirements with `pip install -r requirements.txt`
 3. Run app with `python run.py`
