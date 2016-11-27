@@ -1,0 +1,10 @@
+[
+    {
+        "body": "You are in the first week of your second trimester. At this time, it might be hard to breathe.  For this, you can do breathing exercises. Put your hand on the stomach and take long and deep breaths, 10 to 12 times. You need to do this type of exercises about 3 to 4 times a day. How are you feeling today?",
+        "type": "text"
+    },
+    {
+        "body": "Within the 18 to 22 weeks of conception, you are supposed to take the tetanus shot. If you took it earlier, then please talk to your doctor. For those who didn’t take the shot earlier, please go this week. After one month, you will have to take another shot.  Have you taken your tetanus shot yet?",
+        "type": "boolean"
+    }
+]
