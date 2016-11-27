@@ -1,6 +1,7 @@
-# [PLACEHOLDER TITLE]
-## For Break Inequality Hack
+# Maer Junno - For The Mother
+## For Break Inequality Hack 2016
 
+## Resources
 * Twilio SMS communication
 * Served with [Flask](http://flask.pocoo.org/)
 
